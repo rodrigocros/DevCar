@@ -1,0 +1,15 @@
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.csproj.AssemblyReference.cache
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.AssemblyInfoInputs.cache
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.AssemblyInfo.cs
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.csproj.CoreCompileInputs.cache
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/bin/Debug/net6.0/DEVCar
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/bin/Debug/net6.0/DEVCar.deps.json
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/bin/Debug/net6.0/DEVCar.runtimeconfig.json
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/bin/Debug/net6.0/DEVCar.dll
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/bin/Debug/net6.0/DEVCar.pdb
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.dll
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/refint/DEVCar.dll
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.pdb
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/DEVCar.genruntimeconfig.cache
+/Users/rodrigocostadarosa/Desktop/Exercicio aula/DEVCar/DEVCar/obj/Debug/net6.0/ref/DEVCar.dll
